@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "AccountingBookkeeping.Client": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:55174;http://localhost:55175"
+    }
+  }
+}
